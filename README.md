@@ -1,1 +1,1 @@
-# v11tov12
+# Bu Altyapı Yusuf Göçe) Tarafından Hazırlanıp 30/11/2020 23:49'da Yayımlanmıştır. Bu Proje MIT Lisansı İle Korunmaktadır İzinsiz Bir Şekilde Açık Kaynaklı Bir Şekilde Paylaşılması Taktirde Yasal Süreç Başlatılacaktır.
